@@ -1,5 +1,10 @@
 ﻿body {
 }
+/*i want to use roboto font eventually for my whole webpage*/
 h1{
     color: green;
+}
+
+.capitalize {
+    text-transform: uppercase;
 }
