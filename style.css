@@ -8,3 +8,9 @@ h1{
 .capitalize {
     text-transform: uppercase;
 }
+/*removing the underline doesnt seem to work but bolding works*/
+.supplies li {
+    text-decoration: none; /*should remove underline but it doesnt*/
+    font-weight: bold;
+
+}
