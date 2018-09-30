@@ -1,3 +1,2 @@
 # shmiggy1010.github.io
-this is my first website that I will activly develop. I plan on using HTML CSS and later Reactjs.
-I hope to have links, videos and pictures with a mouseover display. 
+this is the seocnd edition my github.io page site. I used Bootstrap and some good old jQuery to create it this version which is a clone of https://startbootstrap.com/template-overviews/resume/ with customizations.
