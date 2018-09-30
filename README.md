@@ -1,2 +1,6 @@
 # shmiggy1010.github.io
-this is the seocnd edition my github.io page site. I used Bootstrap and some good old jQuery to create it this version which is a clone of https://startbootstrap.com/template-overviews/resume/ with customizations.
+this is the seocnd edition my github.io page site. View it at https://shmiggy1010.github.io/ 
+
+I used Bootstrap and some good old jQuery to create it.
+
+This version clones the template of https://startbootstrap.com/template-overviews/resume/ and adds various customizations.
