@@ -70,22 +70,6 @@ p.lead {
   margin-right: 1rem;
 }
 
-.social-icons a:last-child {
-  margin-right: 0;
-}
-
-.social-icons a:hover {
-  background-color: #563d7c;
-}
-
-.dev-icons {
-  font-size: 3rem;
-}
-
-.dev-icons .list-inline-item i:hover {
-  color: #563d7c;
-}
-
 #sideNav .navbar-nav .nav-item .nav-link {
   font-weight: 800;
   letter-spacing: 0.05rem;
@@ -93,7 +77,7 @@ p.lead {
 }
 
 #sideNav .navbar-toggler:focus {
-  outline-color: #563d7c;
+  outline-color: #1d824c;
 }
 
 @media (min-width: 992px) {
@@ -179,18 +163,17 @@ section.resume-section .resume-item .resume-date {
 }
 
 .bg-primary {
-  background-color: #563d7c !important;
+  background-color: #1d824c !important;
 }
 
 .text-primary {
-  color: #563d7c !important;
+  color: #1d824c !important;
 }
 
 a {
-  color: #563d7c;
+  color: #1d824c;
 }
 
 a:hover, a:focus, a:active {
   color: #824027;
 }
-.fa-check:before{content:"\f00c"}.fa-check-circle:before{content:"\f058"}.fa-check-double:before{content:"\f560"}.fa-check-square:before{content:"\f14a"}
